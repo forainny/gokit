@@ -6,6 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.25.8
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.46.0
 	github.com/matoous/go-nanoid/v2 v2.0.0
+	golang.org/x/crypto v0.16.0
 )
 
 require (
